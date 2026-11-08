@@ -4,3 +4,7 @@ __pycache__/
 .env
 data/
 *.duckdb
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
